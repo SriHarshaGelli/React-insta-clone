@@ -1,2 +1,2 @@
-# React-insta-clone
-insta-clone Project
+# react-instaclone
+My new project instaclone
